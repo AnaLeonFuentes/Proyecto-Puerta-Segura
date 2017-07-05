@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">433812702025-ae3eace5jb16v7aa1auno5u20p70c0j8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://proyectopuertasegura-ffb85.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">433812702025</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLORIfvgyCvpldTZdW_mb_KFQr_dqNdN0</string>
+    <string name="google_app_id" translatable="false">1:433812702025:android:dadedeae626d28df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLORIfvgyCvpldTZdW_mb_KFQr_dqNdN0</string>
+    <string name="google_storage_bucket" translatable="false">proyectopuertasegura-ffb85.appspot.com</string>
+    <string name="project_id" translatable="false">proyectopuertasegura-ffb85</string>
+</resources>
